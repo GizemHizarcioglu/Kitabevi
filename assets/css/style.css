@@ -1,0 +1,178 @@
+body {
+  font-family: 'PT Serif', serif;
+  background-color: #CAD3C8;
+  text-align: center;
+}
+
+.index-header {
+  text-align: center;
+  background-color: #CAD3C8;
+  margin-bottom: 100px;
+}
+
+.index-header img {
+  width: 200;
+  margin-bottom: 0px;
+}
+
+.index-header h1 {
+  color: #596275;
+  margin-top: 0px;
+  }
+
+  .index-header li {
+    list-style: none;
+    display: inline;
+    margin-right: 80px;
+    }
+
+.index-header li a {
+  color: #596275;
+  margin-top: 0px;
+  text-decoration: none;
+  list-style: none;
+  }
+
+  table td {
+    color: #596275;
+    font-size: larger;
+  }
+
+  .content {
+    background-color: #CAD3C8;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .content td {
+    text-align: center;
+  }
+
+  .content img {
+    width: 150px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border: 10px solid #e8c3d6;
+    border-radius: 5px;
+    padding: 10px 15px;
+
+  }
+
+  .content h2 {
+    color: #596275;
+  }
+
+  article {
+    display: inline-block;
+    text-align: center;
+  }
+
+  article h2 a {
+    font: 700;
+    font-size: large;
+    text-decoration: none;
+    color: #596275;
+   }
+
+  article h3 {
+    font: 400;
+    font-size: medium;
+  }
+
+  article p {
+    font: 100;
+    font-size: small; 
+  }
+
+  .index-footer {
+    background-color: #CAD3C8;
+    color: #596275;
+    display: inline-flex;
+    margin-top: 40px;
+    text-align: center;
+    
+  }
+
+  .footer-section {
+    margin-left: 100px;
+    margin-right: 0px;
+  }
+
+  .menu h1 {
+    margin-bottom: 5px;
+  }
+
+  .menu li{
+    margin-bottom: 5px;
+    list-style: none;
+    margin-right: 40px;
+  }
+
+  .menu li a{
+    text-decoration: none;
+    color: #596275;
+  }
+
+  .details-content {
+    color: #596275;
+  }
+
+  .details-content p {
+    text-align: justify;
+  }
+
+  .grid {
+    display: table;
+    width: 1500px;
+  }
+
+  .grid .left-column{
+    display: inline-block;
+  }
+
+  .grid .right-column{
+    display: inline-block;
+    width: 900px;
+  }
+
+  .grid .left-column {
+    width: 600px;
+  }
+
+  .left-column img {
+    height: 400px;
+  }
+
+  .right-column h2 {
+     
+      text-decoration: none;
+      font: 700;
+      font-size: large;
+      color: #596275;
+    }
+  
+  .right-column h3 {
+      font: 400;
+      font-size: medium;
+      color: #596275;
+    }
+  
+  .right-column p {
+      font: 100;
+      font-size: small;
+      color: #596275;
+    }
+
+    .about-content {
+      color: #596275;
+      
+    }
+
+    .about-content p {
+      text-align:justify;
+    }
+
+    .contact-content {
+      color: #596275;
+    }
+  
